@@ -31,9 +31,11 @@ public class SecurityConfig {
         return http
                 .csrf(csrf -> csrf.disable())
                 .authorizeHttpRequests(auth -> auth
-                	    .requestMatchers("/auth/**").permitAll() // public login/register
+                		.requestMatchers("/actuator/**").permitAll()
+                	    .requestMatchers("/auth/**").permitAll()
                 	    .requestMatchers("/users/admin/**").hasRole("ADMIN") // ONLY admin
                 	    .requestMatchers("/users/**").hasAnyRole("ADMIN", "GOVT_EMPLOYEE") // all others can be accessed by either
+                	    .requestMatchers("/category/**").hasAnyRole("ADMIN", "GOVT_EMPLOYEE")
                 	    .anyRequest().authenticated() // fallback
                 )
                 .sessionManagement(session -> session.sessionCreationPolicy(SessionCreationPolicy.STATELESS))

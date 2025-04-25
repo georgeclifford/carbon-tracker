@@ -8,6 +8,8 @@ import com.carbontracker.backend.repository.UserRepository;
 import com.carbontracker.backend.service.UserService;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.core.Authentication;
+import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
@@ -117,5 +119,22 @@ public class UserServiceImpl implements UserService {
     @Override
     public Optional<User> getUserById(Long userId) {
         return userRepository.findById(userId);
+    }
+    
+    public User getLoggedInUser() {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        if (authentication == null || !authentication.isAuthenticated()) {
+            throw new RuntimeException("No authenticated user found");
+        }
+        String username = authentication.getName(); // Get the username from Authentication object
+        Optional<Login> loginOpt = loginRepository.findByUsername(username);
+        Login login = loginOpt.get();
+        User user = login.getUser();
+        return user;
+    }
+
+    public Long getLoggedInUserId() {
+        User user = getLoggedInUser();
+        return user.getUserId();
     }
 }

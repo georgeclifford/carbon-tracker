@@ -25,4 +25,8 @@ public interface UserService {
 
     // Utility: Get user by ID
     Optional<User> getUserById(Long userId);
+    
+    User getLoggedInUser();
+    
+    Long getLoggedInUserId();
 }
