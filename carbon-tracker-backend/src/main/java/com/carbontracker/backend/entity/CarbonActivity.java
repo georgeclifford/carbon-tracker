@@ -19,10 +19,14 @@ public class CarbonActivity {
     @Column(name = "activity_id")
     private Long activityId;
 
-    @ManyToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name = "month_id", referencedColumnName = "month_id", nullable = false)
-    private MonthlyEmissions monthlyEmissions;  // Many-to-One relationship with MonthlyEmissions
+//    @ManyToOne(fetch = FetchType.LAZY)
+//    @JoinColumn(name = "month_id", referencedColumnName = "month_id", nullable = false)
+//    private MonthlyEmissions monthlyEmissions;  // Many-to-One relationship with MonthlyEmissions
 
+    @ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "entity_id", referencedColumnName = "entity_id", nullable = false)
+    private ExternalEntity externalEntity;  // Many-to-One relationship with ExternalEntity
+    
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "sub_category_id", referencedColumnName = "sub_category_id", nullable = false)
     private SubCategory subCategory;  // Many-to-One relationship with SubCategory
@@ -42,72 +46,71 @@ public class CarbonActivity {
     // Default constructor
     public CarbonActivity() {}
 
-    // Constructor with parameters
-    public CarbonActivity(Long activityId, MonthlyEmissions monthlyEmissions, SubCategory subCategory, 
-                          String transactionId, double rawValue, double emissionValue, String date) {
-        this.activityId = activityId;
-        this.monthlyEmissions = monthlyEmissions;
-        this.subCategory = subCategory;
-        this.transactionId = transactionId;
-        this.rawValue = rawValue;
-        this.emissionValue = emissionValue;
-        this.date = date;
-    }
+	public CarbonActivity(Long activityId, ExternalEntity externalEntity, SubCategory subCategory, String transactionId,
+			double rawValue, double emissionValue, String date) {
+		super();
+		this.activityId = activityId;
+		this.externalEntity = externalEntity;
+		this.subCategory = subCategory;
+		this.transactionId = transactionId;
+		this.rawValue = rawValue;
+		this.emissionValue = emissionValue;
+		this.date = date;
+	}
 
-    // Getters and Setters
-    public Long getActivityId() {
-        return activityId;
-    }
+	public Long getActivityId() {
+		return activityId;
+	}
 
-    public void setActivityId(Long activityId) {
-        this.activityId = activityId;
-    }
+	public void setActivityId(Long activityId) {
+		this.activityId = activityId;
+	}
 
-    public MonthlyEmissions getMonthlyEmissions() {
-        return monthlyEmissions;
-    }
+	public ExternalEntity getExternalEntity() {
+		return externalEntity;
+	}
 
-    public void setMonthlyEmissions(MonthlyEmissions monthlyEmissions) {
-        this.monthlyEmissions = monthlyEmissions;
-    }
+	public void setExternalEntity(ExternalEntity externalEntity) {
+		this.externalEntity = externalEntity;
+	}
 
-    public SubCategory getSubCategory() {
-        return subCategory;
-    }
+	public SubCategory getSubCategory() {
+		return subCategory;
+	}
 
-    public void setSubCategory(SubCategory subCategory) {
-        this.subCategory = subCategory;
-    }
+	public void setSubCategory(SubCategory subCategory) {
+		this.subCategory = subCategory;
+	}
 
-    public String getTransactionId() {
-        return transactionId;
-    }
+	public String getTransactionId() {
+		return transactionId;
+	}
 
-    public void setTransactionId(String transactionId) {
-        this.transactionId = transactionId;
-    }
+	public void setTransactionId(String transactionId) {
+		this.transactionId = transactionId;
+	}
 
-    public double getRawValue() {
-        return rawValue;
-    }
+	public double getRawValue() {
+		return rawValue;
+	}
 
-    public void setRawValue(double rawValue) {
-        this.rawValue = rawValue;
-    }
+	public void setRawValue(double rawValue) {
+		this.rawValue = rawValue;
+	}
 
-    public double getEmissionValue() {
-        return emissionValue;
-    }
+	public double getEmissionValue() {
+		return emissionValue;
+	}
 
-    public void setEmissionValue(double emissionValue) {
-        this.emissionValue = emissionValue;
-    }
+	public void setEmissionValue(double emissionValue) {
+		this.emissionValue = emissionValue;
+	}
 
-    public String getDate() {
-        return date;
-    }
+	public String getDate() {
+		return date;
+	}
 
-    public void setDate(String date) {
-        this.date = date;
-    }
+	public void setDate(String date) {
+		this.date = date;
+	}
 }

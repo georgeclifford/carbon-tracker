@@ -13,8 +13,11 @@ public class ExternalEntity {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Column(name = "entity_id")
-    private Long entityId;
+    @Column(name = "external_entity_id")
+    private Long externalEntityId;
+    
+    @Column(name = "entity_id", unique = true, nullable = false)
+    private String entityId;
 
     @Column(name = "entity_type", nullable = false)
     private String entityType;
@@ -40,81 +43,90 @@ public class ExternalEntity {
     // Default constructor
     public ExternalEntity() {}
 
-    // Constructor with parameters
-    public ExternalEntity(Long entityId, String entityType, String entityName, String phone, String address, 
-                          String district, String state, String pinCode) {
-        this.entityId = entityId;
-        this.entityType = entityType;
-        this.entityName = entityName;
-        this.phone = phone;
-        this.address = address;
-        this.district = district;
-        this.state = state;
-        this.pinCode = pinCode;
-    }
+	public ExternalEntity(Long externalEntityId, String entityId, String entityType, String entityName, String phone,
+			String address, String district, String state, String pinCode) {
+		super();
+		this.externalEntityId = externalEntityId;
+		this.entityId = entityId;
+		this.entityType = entityType;
+		this.entityName = entityName;
+		this.phone = phone;
+		this.address = address;
+		this.district = district;
+		this.state = state;
+		this.pinCode = pinCode;
+	}
 
-    // Getters and Setters
-    public Long getEntityId() {
-        return entityId;
-    }
+	public Long getExternalEntityId() {
+		return externalEntityId;
+	}
 
-    public void setEntityId(Long entityId) {
-        this.entityId = entityId;
-    }
+	public void setExternalEntityId(Long externalEntityId) {
+		this.externalEntityId = externalEntityId;
+	}
 
-    public String getEntityType() {
-        return entityType;
-    }
+	public String getEntityId() {
+		return entityId;
+	}
 
-    public void setEntityType(String entityType) {
-        this.entityType = entityType;
-    }
+	public void setEntityId(String entityId) {
+		this.entityId = entityId;
+	}
 
-    public String getEntityName() {
-        return entityName;
-    }
+	public String getEntityType() {
+		return entityType;
+	}
 
-    public void setEntityName(String entityName) {
-        this.entityName = entityName;
-    }
+	public void setEntityType(String entityType) {
+		this.entityType = entityType;
+	}
 
-    public String getPhone() {
-        return phone;
-    }
+	public String getEntityName() {
+		return entityName;
+	}
 
-    public void setPhone(String phone) {
-        this.phone = phone;
-    }
+	public void setEntityName(String entityName) {
+		this.entityName = entityName;
+	}
 
-    public String getAddress() {
-        return address;
-    }
+	public String getPhone() {
+		return phone;
+	}
 
-    public void setAddress(String address) {
-        this.address = address;
-    }
+	public void setPhone(String phone) {
+		this.phone = phone;
+	}
 
-    public String getDistrict() {
-        return district;
-    }
+	public String getAddress() {
+		return address;
+	}
 
-    public void setDistrict(String district) {
-        this.district = district;
-    }
+	public void setAddress(String address) {
+		this.address = address;
+	}
 
-    public String getState() {
-        return state;
-    }
+	public String getDistrict() {
+		return district;
+	}
 
-    public void setState(String state) {
-        this.state = state;
-    }
+	public void setDistrict(String district) {
+		this.district = district;
+	}
 
-    public String getPinCode() {
-        return pinCode;
-    }
+	public String getState() {
+		return state;
+	}
 
-    public void setPinCode(String pinCode) {
-        this.pinCode = pinCode;
-    }
+	public void setState(String state) {
+		this.state = state;
+	}
+
+	public String getPinCode() {
+		return pinCode;
+	}
+
+	public void setPinCode(String pinCode) {
+		this.pinCode = pinCode;
+	}
+    
 }

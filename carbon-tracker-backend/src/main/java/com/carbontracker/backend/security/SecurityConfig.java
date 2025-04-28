@@ -33,9 +33,12 @@ public class SecurityConfig {
                 .authorizeHttpRequests(auth -> auth
                 		.requestMatchers("/actuator/**").permitAll()
                 	    .requestMatchers("/auth/**").permitAll()
-                	    .requestMatchers("/users/admin/**").hasRole("ADMIN") // ONLY admin
-                	    .requestMatchers("/users/**").hasAnyRole("ADMIN", "GOVT_EMPLOYEE") // all others can be accessed by either
+                	    .requestMatchers("/user/admin/**").hasRole("ADMIN") // ONLY admin
+                	    .requestMatchers("/user/**").hasAnyRole("ADMIN", "GOVT_EMPLOYEE") // all others can be accessed by either
                 	    .requestMatchers("/category/**").hasAnyRole("ADMIN", "GOVT_EMPLOYEE")
+                	    .requestMatchers("/subcategory/**").hasAnyRole("ADMIN", "GOVT_EMPLOYEE")
+                	    .requestMatchers("/ml/**").hasAnyRole("ADMIN", "GOVT_EMPLOYEE")
+                	    .requestMatchers("/externalentity/**").hasAnyRole("ADMIN", "GOVT_EMPLOYEE")
                 	    .anyRequest().authenticated() // fallback
                 )
                 .sessionManagement(session -> session.sessionCreationPolicy(SessionCreationPolicy.STATELESS))

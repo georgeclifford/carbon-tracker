@@ -27,17 +27,23 @@ public class CategoryServiceImpl implements CategoryService {
     @Override
     public Category saveCategory(Category category) {
         // Set the logged-in user ID
-    	System.out.println(userService.getLoggedInUser());
         category.setUser(userService.getLoggedInUser());
         return categoryRepository.save(category);
     }
 
     @Override
-    public Category updateCategory(Category category) {
-        // Set the logged-in user ID
-        category.setUser(userService.getLoggedInUser());
-        return categoryRepository.save(category);
+    public Category updateCategory(Long id, Category updatedCategory) {
+        Category existing = categoryRepository.findById(id)
+                .orElseThrow(() -> new RuntimeException("Category not found"));
+
+        existing.setCategoryName(updatedCategory.getCategoryName());
+        existing.setTimestamp(updatedCategory.getTimestamp());
+        existing.setStatus(updatedCategory.getStatus());
+        existing.setUser(userService.getLoggedInUser());
+
+        return categoryRepository.save(existing);
     }
+
 
     @Override
     public Category getCategoryById(Long categoryId) {

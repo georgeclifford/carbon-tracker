@@ -1,0 +1,7982 @@
+[
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Gas connection bill",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Diesel refill at pump",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Consultation at Apollo Hospital",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Monthly internet bill",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Winter wear shopping",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Snacks shopping",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Fridge purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Weekend resort booking",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "LPG cylinder delivery",
+    "subcategory": "Cooking Gas"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Battery top-up",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Hotel stay",
+    "subcategory": "Hotel & Accommodation"
+  },
+  {
+    "description": "Electric bill payment",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Taxi ride",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "Bike servicing",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "EV charging station",
+    "subcategory": "Battery Charging Stations"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Petrol pump refill",
+    "subcategory": "Fuel"
+  },
+  {
+    "description": "Bought summer clothes",
+    "subcategory": "Clothing & Apparel"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "Flight booking",
+    "subcategory": "Transportation"
+  },
+  {
+    "description": "Bought sofa set",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Medicine purchase",
+    "subcategory": "Health & Medical"
+  },
+  {
+    "description": "Solar panel maintenance",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Green energy billing",
+    "subcategory": "Renewable Energy Sources"
+  },
+  {
+    "description": "Plumber visit",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  },
+  {
+    "description": "New TV purchase",
+    "subcategory": "Electronics & Appliances"
+  },
+  {
+    "description": "Car tire replacement",
+    "subcategory": "Vehicles & Auto Parts"
+  },
+  {
+    "description": "AC servicing",
+    "subcategory": "Repair & Maintenance"
+  },
+  {
+    "description": "Dining table shopping",
+    "subcategory": "Furniture & Home Goods"
+  },
+  {
+    "description": "Netflix subscription",
+    "subcategory": "Internet/Telecom"
+  },
+  {
+    "description": "Grocery purchase",
+    "subcategory": "Food"
+  },
+  {
+    "description": "Monthly electricity bill",
+    "subcategory": "Electricity"
+  }
+]

@@ -6,7 +6,7 @@ import com.carbontracker.backend.entity.Category;
 
 public interface CategoryService {
     Category saveCategory(Category category);
-    Category updateCategory(Category category);
+    Category updateCategory(Long categoryId, Category category);
     Category getCategoryById(Long categoryId);
     List<Category> getAllCategories();
     void activateCategory(Long categoryId);
