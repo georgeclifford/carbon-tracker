@@ -11,8 +11,8 @@ import ProtectedRoute from "./components/ProtectedRoute";
 function App() {
   return (
     <Router>
-      <Toaster position="top-right" />
-      <div className="min-h-screen flex flex-col">
+      <Toaster position="top-right" reverseOrder={false} />
+      <div className="min-h-screen flex flex-col bg-base-200">
         <Navbar />
         <main className="flex-grow p-4">
           <Routes>
