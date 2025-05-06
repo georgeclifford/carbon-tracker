@@ -44,7 +44,7 @@ public class SubCategoryServiceImpl implements SubCategoryService {
     @Override
     public SubCategory updateSubCategory(Long id, SubCategory updatedSubCategory) {
         SubCategory existing = subCategoryRepository.findById(id)
-                .orElseThrow(() -> new RuntimeException("SubCategory not found"));
+                .orElseThrow(() -> new RuntimeException("SubCategory Not Found!"));
 
         existing.setCategory(updatedSubCategory.getCategory());
         existing.setSubCategoryName(updatedSubCategory.getSubCategoryName());
@@ -61,7 +61,7 @@ public class SubCategoryServiceImpl implements SubCategoryService {
     @Override
     public SubCategory getSubCategoryById(Long id) {
         return subCategoryRepository.findById(id)
-                .orElseThrow(() -> new RuntimeException("SubCategory not found"));
+                .orElseThrow(() -> new RuntimeException("SubCategory Not Found!"));
     }
 
     @Override
@@ -72,7 +72,7 @@ public class SubCategoryServiceImpl implements SubCategoryService {
     @Override
     public void activateSubCategory(Long id) {
         SubCategory subCategory = subCategoryRepository.findById(id)
-                .orElseThrow(() -> new RuntimeException("SubCategory not found"));
+                .orElseThrow(() -> new RuntimeException("SubCategory Not Found!"));
         subCategory.setStatus("ACTIVE");
         subCategoryRepository.save(subCategory);
     }
@@ -80,7 +80,7 @@ public class SubCategoryServiceImpl implements SubCategoryService {
     @Override
     public void deactivateSubCategory(Long id) {
         SubCategory subCategory = subCategoryRepository.findById(id)
-                .orElseThrow(() -> new RuntimeException("SubCategory not found"));
+                .orElseThrow(() -> new RuntimeException("SubCategory Not Found!"));
         subCategory.setStatus("INACTIVE");
         subCategoryRepository.save(subCategory);
     }

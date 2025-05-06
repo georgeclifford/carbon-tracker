@@ -35,10 +35,14 @@ function Navbar() {
   }, []);
 
   return (
-    <nav className="navbar sticky fixed z-50 top-0 bg-base-100/60 backdrop-blur-md text-base-content shadow-lg">
+    <nav className="navbar sticky fixed z-50 top-0 text-primary-content bg-primary/80 backdrop-blur-sm shadow-lg">
       <div className="navbar-start">
         <div className="dropdown">
-          <div tabIndex={0} role="button" className="btn btn-ghost btn-circle">
+          <div
+            tabIndex={0}
+            role="button"
+            className="btn btn-ghost btn-circle hover:border-secondary hover:bg-secondary hover:text-secondary-content"
+          >
             <svg
               xmlns="http://www.w3.org/2000/svg"
               className="h-5 w-5"
@@ -56,11 +60,11 @@ function Navbar() {
           </div>
           <ul
             tabIndex={0}
-            className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
+            className="menu menu-md dropdown-content bg-secondary text-secondary-content rounded-box z-1 mt-3 w-50 p-2 shadow-lg"
           >
             {isLoggedIn && (
               <li>
-                <Link to="/dashboard">Dashboard</Link>
+                <Link to="/userdetails">Dashboard</Link>
               </li>
             )}
             <li>
@@ -78,7 +82,7 @@ function Navbar() {
         </Link>
       </div>
       <div className="navbar-end">
-        <label className="swap swap-rotate">
+        <label className="swap swap-rotate mx-3">
           <input
             type="checkbox"
             className="theme-controller"
@@ -99,6 +103,30 @@ function Navbar() {
             <path d="M21.64,13a1,1,0,0,0-1.05-.14,8.05,8.05,0,0,1-3.37.73A8.15,8.15,0,0,1,9.08,5.49a8.59,8.59,0,0,1,.25-2A1,1,0,0,0,8,2.36,10.14,10.14,0,1,0,22,14.05,1,1,0,0,0,21.64,13Zm-9.5,6.69A8.14,8.14,0,0,1,7.08,5.22v.27A10.15,10.15,0,0,0,17.22,15.63a9.79,9.79,0,0,0,2.1-.22A8.11,8.11,0,0,1,12.14,19.73Z" />
           </svg>
         </label>
+
+        {!isLoggedIn && (
+          <div className="tooltip tooltip-left" data-tip="Login">
+            <Link
+              to="/login"
+              className="btn btn-ghost btn-circle hover:border-secondary hover:bg-secondary hover:text-secondary-content mr-2"
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                strokeWidth={1.5}
+                stroke="currentColor"
+                className="size-6"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0ZM4.501 20.118a7.5 7.5 0 0 1 14.998 0A17.933 17.933 0 0 1 12 21.75c-2.676 0-5.216-.584-7.499-1.632Z"
+                />
+              </svg>
+            </Link>
+          </div>
+        )}
         {isLoggedIn && <LogoutButton />}
       </div>
     </nav>

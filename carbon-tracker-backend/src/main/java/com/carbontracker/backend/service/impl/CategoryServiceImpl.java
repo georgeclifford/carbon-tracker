@@ -34,7 +34,7 @@ public class CategoryServiceImpl implements CategoryService {
     @Override
     public Category updateCategory(Long id, Category updatedCategory) {
         Category existing = categoryRepository.findById(id)
-                .orElseThrow(() -> new RuntimeException("Category not found"));
+                .orElseThrow(() -> new RuntimeException("Category Not Found!"));
 
         existing.setCategoryName(updatedCategory.getCategoryName());
         existing.setTimestamp(updatedCategory.getTimestamp());
@@ -47,7 +47,7 @@ public class CategoryServiceImpl implements CategoryService {
 
     @Override
     public Category getCategoryById(Long categoryId) {
-        return categoryRepository.findById(categoryId).orElseThrow(() -> new RuntimeException("Category not found"));
+        return categoryRepository.findById(categoryId).orElseThrow(() -> new RuntimeException("Category Not Found!"));
     }
     
     @Override
@@ -58,7 +58,7 @@ public class CategoryServiceImpl implements CategoryService {
     @Override
     public void activateCategory(Long categoryId) {
         Category category = categoryRepository.findById(categoryId)
-                .orElseThrow(() -> new RuntimeException("Category not found"));
+                .orElseThrow(() -> new RuntimeException("Category Not Found!"));
         category.setStatus("ACTIVE");
         categoryRepository.save(category);
     }
@@ -66,7 +66,7 @@ public class CategoryServiceImpl implements CategoryService {
     @Override
     public void deactivateCategory(Long categoryId) {
         Category category = categoryRepository.findById(categoryId)
-                .orElseThrow(() -> new RuntimeException("Category not found"));
+                .orElseThrow(() -> new RuntimeException("Category Not Found!"));
         category.setStatus("INACTIVE");
         categoryRepository.save(category);
     }

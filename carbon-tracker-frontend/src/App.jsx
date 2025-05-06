@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Login from "./pages/Login";
-import Dashboard from "./pages/Dashboard";
+import UserDetails from "./pages/UserDetails";
 import EmissionCalculation from "./pages/EmissionCalculation";
 import About from "./pages/About";
 import { Toaster } from "react-hot-toast";
@@ -11,17 +11,17 @@ import ProtectedRoute from "./components/ProtectedRoute";
 function App() {
   return (
     <Router>
-      <Toaster position="top-right" reverseOrder={false} />
+      <Toaster position="top-center" reverseOrder={false} />
       <div className="min-h-screen flex flex-col bg-base-200">
         <Navbar />
-        <main className="flex-grow p-4">
+        <main className="flex-grow">
           <Routes>
-            <Route path="/" element={<Login />} />
+            <Route path="/login" element={<Login />} />
             <Route
-              path="/dashboard"
+              path="/userdetails"
               element={
                 <ProtectedRoute>
-                  <Dashboard />
+                  <UserDetails />
                 </ProtectedRoute>
               }
             />

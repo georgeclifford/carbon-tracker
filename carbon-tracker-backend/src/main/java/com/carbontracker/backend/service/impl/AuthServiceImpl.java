@@ -30,9 +30,9 @@ public class AuthServiceImpl implements AuthService {
                 new UsernamePasswordAuthenticationToken(request.getUsername(), request.getPassword())
             );
         } catch (DisabledException ex) {
-            throw new RuntimeException("Account is disabled");
+            throw new RuntimeException("Account Is Disabled!");
         } catch (BadCredentialsException ex) {
-            throw new RuntimeException("Invalid credentials");
+            throw new RuntimeException("Invalid Credentials");
         }
 
         UserDetails userDetails = userDetailsService.loadUserByUsername(request.getUsername());

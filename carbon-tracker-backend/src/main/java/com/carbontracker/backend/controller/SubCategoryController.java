@@ -47,9 +47,9 @@ public class SubCategoryController {
     public ResponseEntity<String> activateSubCategory(@PathVariable Long id) {
         try {
             subCategoryService.activateSubCategory(id);
-            return ResponseEntity.ok("SubCategory activated successfully");
+            return ResponseEntity.ok("SubCategory Activated Successfully!");
         } catch (RuntimeException e) {
-            return ResponseEntity.status(404).body("SubCategory not found");
+            return ResponseEntity.status(404).body("SubCategory Not Found!");
         }
     }
 
@@ -57,9 +57,9 @@ public class SubCategoryController {
     public ResponseEntity<String> deactivateSubCategory(@PathVariable Long id) {
         try {
             subCategoryService.deactivateSubCategory(id);
-            return ResponseEntity.ok("SubCategory deactivated successfully");
+            return ResponseEntity.ok("SubCategory Deactivated Successfully!");
         } catch (RuntimeException e) {
-            return ResponseEntity.status(404).body("SubCategory not found");
+            return ResponseEntity.status(404).body("SubCategory Not Found!");
         }
     }
 }

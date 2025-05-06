@@ -50,9 +50,9 @@ public class CategoryController {
     public ResponseEntity<String> activateCategory(@PathVariable Long id) {
         try {
             categoryService.activateCategory(id);
-            return ResponseEntity.ok("Category activated successfully");
+            return ResponseEntity.ok("Category Activated Successfully!");
         } catch (RuntimeException e) {
-            return ResponseEntity.status(404).body("Category not found");
+            return ResponseEntity.status(404).body("Category Not Found!");
         }
     }
 
@@ -61,9 +61,9 @@ public class CategoryController {
     public ResponseEntity<String> deactivateCategory(@PathVariable Long id) {
         try {
             categoryService.deactivateCategory(id);
-            return ResponseEntity.ok("Category deactivated successfully");
+            return ResponseEntity.ok("Category Deactivated Successfully!");
         } catch (RuntimeException e) {
-            return ResponseEntity.status(404).body("Category not found");
+            return ResponseEntity.status(404).body("Category Not Found!");
         }
     }
 }

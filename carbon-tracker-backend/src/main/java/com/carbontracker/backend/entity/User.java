@@ -3,8 +3,8 @@ package com.carbontracker.backend.entity;
 import jakarta.persistence.*;
 import java.time.LocalDate;
 
-import com.fasterxml.jackson.annotation.JsonBackReference;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.fasterxml.jackson.annotation.JsonManagedReference;
 
 @Entity
 @Table(name = "user")
@@ -18,7 +18,7 @@ public class User {
 
     @OneToOne(fetch = FetchType.LAZY, cascade = CascadeType.ALL, orphanRemoval = true)
     @JoinColumn(name = "login_id", referencedColumnName = "login_id")
-    @JsonBackReference
+    @JsonManagedReference
     private Login login;  // One-to-One relationship with Login
 
     @Column(name = "first_name", nullable = false)

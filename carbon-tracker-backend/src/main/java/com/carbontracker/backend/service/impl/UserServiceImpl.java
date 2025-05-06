@@ -32,7 +32,7 @@ public class UserServiceImpl implements UserService {
     @Override
     public User createUser(UserRegistrationRequest request) {
         if (loginRepository.findByUsername(request.getUsername()).isPresent()) {
-            throw new IllegalArgumentException("Username already exists.");
+            throw new IllegalArgumentException("Username Already Exists!");
         }
 
         Login login = new Login();
@@ -66,13 +66,13 @@ public class UserServiceImpl implements UserService {
     public User updateUser(Long userId, UserRegistrationRequest request) {
         Optional<User> existingOpt = userRepository.findById(userId);
         if (existingOpt.isEmpty()) {
-            throw new IllegalArgumentException("User not found.");
+            throw new IllegalArgumentException("User Not Found!");
         }
         
         User existingUser = existingOpt.get();
         
-        Login existingLogin = existingUser.getLogin();
-        existingLogin.setPassword(passwordEncoder.encode(request.getPassword()));
+//        Login existingLogin = existingUser.getLogin();
+//        existingLogin.setPassword(passwordEncoder.encode(request.getPassword()));
 
         existingUser.setFirstName(request.getFirstName());
         existingUser.setMiddleName(request.getMiddleName());
@@ -86,7 +86,7 @@ public class UserServiceImpl implements UserService {
         existingUser.setState(request.getState());
         existingUser.setPinCode(request.getPinCode());
         
-        loginRepository.save(existingLogin);
+//        loginRepository.save(existingLogin);
 
         return userRepository.save(existingUser);
     }
@@ -94,7 +94,7 @@ public class UserServiceImpl implements UserService {
     @Override
     public void deactivateUser(Long userId) {
         User user = userRepository.findById(userId)
-            .orElseThrow(() -> new IllegalArgumentException("User not found"));
+            .orElseThrow(() -> new IllegalArgumentException("User Not Found!"));
 
         Login login = user.getLogin();
         login.setAccountStatus("INACTIVE");
@@ -104,7 +104,7 @@ public class UserServiceImpl implements UserService {
     @Override
     public void activateUser(Long userId) {
         User user = userRepository.findById(userId)
-            .orElseThrow(() -> new IllegalArgumentException("User not found"));
+            .orElseThrow(() -> new IllegalArgumentException("User Not Found!"));
 
         Login login = user.getLogin();
         login.setAccountStatus("ACTIVE");
@@ -124,7 +124,7 @@ public class UserServiceImpl implements UserService {
     public User getLoggedInUser() {
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         if (authentication == null || !authentication.isAuthenticated()) {
-            throw new RuntimeException("No authenticated user found");
+            throw new RuntimeException("No Authenticated User Found");
         }
         String username = authentication.getName(); // Get the username from Authentication object
         Optional<Login> loginOpt = loginRepository.findByUsername(username);

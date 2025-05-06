@@ -47,9 +47,9 @@ public class UserController {
     public ResponseEntity<String> deactivateUser(@PathVariable Long userId) {
         try {
             userService.deactivateUser(userId);
-            return new ResponseEntity<>("User deactivated successfully", HttpStatus.OK);
+            return new ResponseEntity<>("User Deactivated Successfully!", HttpStatus.OK);
         } catch (IllegalArgumentException e) {
-            return new ResponseEntity<>("User not found", HttpStatus.NOT_FOUND);
+            return new ResponseEntity<>("User Not Found!", HttpStatus.NOT_FOUND);
         }
     }
 
@@ -58,9 +58,9 @@ public class UserController {
     public ResponseEntity<String> activateUser(@PathVariable Long userId) {
         try {
             userService.activateUser(userId);
-            return new ResponseEntity<>("User activated successfully", HttpStatus.OK);
+            return new ResponseEntity<>("User Activated Successfully!", HttpStatus.OK);
         } catch (IllegalArgumentException e) {
-            return new ResponseEntity<>("User not found", HttpStatus.NOT_FOUND);
+            return new ResponseEntity<>("User Not Found!", HttpStatus.NOT_FOUND);
         }
     }
     
@@ -70,7 +70,6 @@ public class UserController {
         List<User> users = userService.getAllUsers();
         return new ResponseEntity<>(users, HttpStatus.OK);
     }
-
 
     // Get user details by ID
     @GetMapping("/{userId}")

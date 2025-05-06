@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 function Footer() {
   return (
-    <footer className="bg-primary text-primary-content">
+    <footer className="text-secondary-content bg-secondary shadow-lg">
       <div className="footer sm:footer-horizontal items-center p-5">
         <aside className="grid-flow-col items-center">
           <p>Copyright © {new Date().getFullYear()} - All right reserved</p>

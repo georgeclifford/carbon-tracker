@@ -1,6 +1,7 @@
 package com.carbontracker.backend.entity;
 
-import com.fasterxml.jackson.annotation.JsonManagedReference;
+import com.fasterxml.jackson.annotation.JsonBackReference;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotNull;
@@ -8,6 +9,7 @@ import jakarta.validation.constraints.Size;
 
 @Entity
 @Table(name = "login")
+@JsonIgnoreProperties({"hibernateLazyInitializer", "handler"})
 public class Login {
 
     @Id
@@ -33,7 +35,7 @@ public class Login {
     private String accountStatus;
 
     @OneToOne(mappedBy = "login")
-    @JsonManagedReference
+    @JsonBackReference
     private User user;  // One-to-One relationship with User
 
     public Login() {}
